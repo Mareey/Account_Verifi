@@ -1,5 +1,5 @@
 body {
-    background: #bdc3c7;
+    background:#fff;
 }
 
 .body {
@@ -82,7 +82,6 @@ form button {
     .body {
         width: 100%;
         vertical-align: middle;
-        border-radius: 20px;
         height: 100vh;
     }
 }
