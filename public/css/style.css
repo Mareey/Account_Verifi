@@ -44,11 +44,6 @@ form {
     text-align: center;
 }
 
-form > * {
-    margin-top: -1rem;
-    padding-top: 1rem;
-}
-
 form input {
     margin-bottom: 3rem;
     border-top: 0;
