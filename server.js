@@ -5,6 +5,10 @@ const bodyParser = require('body-parser');
 const ejs = require('ejs');
 const request = require('request');
 
+const host = '0.0.0.0';
+const port = process.env.PORT || 3000;
+
+
 const app = express();
 
 let bankList = [];
@@ -85,8 +89,7 @@ app.post('/banks', (_req, _res) => {
     });
 });
 
-
-app.listen(3000, () => {
+app.listen(port, host, () => {
     console.log('Server started on port 3000 \nCopy link in browser: http://localhost:3000 ');
 
 });
