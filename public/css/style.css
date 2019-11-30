@@ -1,7 +1,3 @@
-html{
-    font-size: 62.5%;
-}
-
 body {
     background: #bdc3c7;
 }
@@ -12,11 +8,6 @@ body {
     width: 30%;
     margin: 10px auto 0;
     height: 85vh;
-    padding-bottom: 3rem;
-}
-
-body > * {
-    margin-top: -3rem;
 }
 
 .body h1,
@@ -26,22 +17,22 @@ body > * {
 }
 
 .body h1 {
-    margin-bottom: 2rem;
+    margin-bottom: 20px;
 }
 
 .body .icon {
-    margin-top: 10rem;
+    margin-top: 100px;
 }
 
 .body p {
     margin-top: 0px;
-    font-size: 1.4rem;
+    font-size: 16px;
     color: #808080;
 }
 
 .icon {
-    margin: 2rem;
-    font-size: 1.3rem;
+    margin: 20px;
+    font-size: 13px;
 }
 
 form {
@@ -50,7 +41,7 @@ form {
 }
 
 form input {
-    margin-bottom: 3rem;
+    margin-bottom: 30px;
     border-top: 0;
     border-right: 0;
     border-left: 0;
@@ -59,7 +50,7 @@ form input {
 }
 
 form button {
-    margin: 1rem;
+    margin: 10px;
 }
 
 #success {
@@ -72,7 +63,7 @@ form button {
 
 #errorMessage {
     color: #db3f3f;
-    font-size: 1.6rem;
+    font-size: 16px;
 }
 
 .image {
