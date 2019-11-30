@@ -1,5 +1,5 @@
 body {
-    background: #bdc3c7;
+    background: #fff;
 }
 
 .body {
@@ -38,6 +38,7 @@ body {
 form {
     width: 100%;
     text-align: center;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.123);
 }
 
 form input {
