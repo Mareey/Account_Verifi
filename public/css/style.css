@@ -14,6 +14,10 @@ body {
     height: 85vh;
 }
 
+body > * {
+    margin-top: -3rem;
+}
+
 .body h1,
 .body h2,
 .body p {
