@@ -84,7 +84,7 @@ form button {
         width: 100%;
         background-color: #fff;
         height: 110%;
-        margin-bottom: 30px;
+       padding-bottom: 80px;
     }
 
     .response {
