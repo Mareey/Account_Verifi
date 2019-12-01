@@ -86,6 +86,10 @@ form button {
         height: 110%;
     }
 
+    .landing {
+        margin-top: -40px;
+    }
+
     .response {
         padding-bottom: 230px;
     }
