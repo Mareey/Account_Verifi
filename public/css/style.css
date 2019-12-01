@@ -94,6 +94,7 @@ form button {
 
 @media screen and (max-width: 600px) {
     .body {
-        padding-top: -70px;
+        padding-top: -100px;
+        height: 130%;
     }
 }
