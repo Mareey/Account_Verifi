@@ -1,11 +1,12 @@
-
+body {
+    height: 85vh;
+}
 
 .body {
     padding: 2em;
     background: #fff;
     width: 30%;
     margin: 0 auto;
-    height: 85vh;
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.5);
 }
 
@@ -78,12 +79,15 @@ form button {
 /* Media queries */
 
 @media screen and (max-width: 786px) {
+    body {
+        height: 100vh;
+    }
     .body {
         width: 100%;
-        vertical-align: middle;
-        height: 160%;
-        /* padding-bottom: 7em; */
-        position: absolute;
+        /* vertical-align: middle; */
+        /* height: 160%; */
+        /* padding-bottom: 7em;
+       position: relative; */
     }
 
     .response {
