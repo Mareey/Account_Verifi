@@ -82,6 +82,7 @@ form button {
         width: 100%;
         vertical-align: middle;
         height: 160%;
+        padding-bottom: 4em;
     }
 
     .response {
