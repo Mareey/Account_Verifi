@@ -87,4 +87,8 @@ form button {
         height: 110%;
         /* padding-bottom: 230px; */
     }
+
+    .response {
+        padding-bottom: 230px;
+    }
 }
