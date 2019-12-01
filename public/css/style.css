@@ -87,4 +87,18 @@ form button {
         height: 120%;
         padding-bottom: 4rem;
     }
+    #success {
+        height: 120%;
+        padding-bottom: 4rem;
+    }
+    
+    #failure {
+        height: 120%;
+        padding-bottom: 4rem;
+    }
+    
+    #errorMessage {
+        height: 120%;
+        padding-bottom: 4rem;
+    }
 }
