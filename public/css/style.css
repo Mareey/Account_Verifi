@@ -84,10 +84,10 @@ form button {
         width: 100%;
         background-color: #fff;
         height: 110%;
-       padding-bottom: 80px;
+       padding-top: -30px;
     }
 
     .response {
-        padding-top: -50px;
+        padding-bottom: 230px;
     }
 }
