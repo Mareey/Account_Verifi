@@ -83,10 +83,10 @@ form button {
     .body {
         width: 100%;
         background-color: #fff;
-        height: 120%;
+        height: 100vh;
     }
 
-    .response {
+    /* .response {
         padding-bottom: 280px;
-    }
+    } */
 }
