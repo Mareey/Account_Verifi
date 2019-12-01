@@ -6,8 +6,8 @@ body {
     padding: 2em;
     background: #fff;
     width: 30%;
-    margin: 0 auto;
-    height: 100vh;
+    margin: 10px auto 0;
+    height: 85vh;
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.4);
 }
 
@@ -83,5 +83,6 @@ form button {
     .body {
         width: 100%;
         vertical-align: middle;
+        height: 100vh;
     }
 }
