@@ -88,7 +88,8 @@ form button {
 
     .landing {
         /* margin-top: -40px; */
-        padding-bottom: -50px;
+        padding-top: -50px;
+        padding-top: 50px;
         margin-bottom: -100px;
     }
 
