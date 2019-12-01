@@ -82,10 +82,11 @@ form button {
         width: 100%;
         vertical-align: middle;
         height: 160%;
-        padding-bottom: 8em;
+        padding-bottom: 7em;
+        position: fixed;
     }
 
     .response {
-        padding-bottom: 15em;
+        padding-bottom: 18em;
     }
 }
