@@ -7,7 +7,7 @@ body {
     background: #fff;
     width: 30%;
     margin: 10px auto 0;
-    height: 100vh;
+    height: 85vh;
 }
 
 .body h1,
@@ -83,5 +83,6 @@ form button {
         width: 100%;
         vertical-align: middle;
         height: 100vh;
+        background-color: #fff;
     }
 }
