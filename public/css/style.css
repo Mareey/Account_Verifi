@@ -82,9 +82,9 @@ form button {
 @media screen and (max-width: 786px) {
     .body {
         width: 100%;
-        vertical-align: middle;
+        /* vertical-align: middle; */
         background-color: #fff;
         height: 130%;
-        padding-bottom: 40px;
+        padding-bottom: 140px;
     }
 }
