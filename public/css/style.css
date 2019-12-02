@@ -82,7 +82,7 @@ form button {
 @media screen and (max-width: 786px) {
     .body {
         width: 100%;
-        padding-bottom: 8em;
+        height: 100%;
     }
 
     .response {
@@ -94,6 +94,7 @@ form button {
     .body {
         width: 100%;
         padding-bottom: 9em;
+        height: 100%;
     }
 
     .response {
