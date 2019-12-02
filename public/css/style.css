@@ -88,4 +88,8 @@ form button {
         vertical-align: middle;
         height: 100vh;
     }
+
+    body {
+        background: #fff;
+    }
 }
